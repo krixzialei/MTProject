@@ -9,7 +9,7 @@ body {
     margin: 0;
     font-family: 'Calibri';
     font-weight: bold;
-    background: linear-gradient(rgba(255, 255, 255, 0.273), rgba(255, 255, 255, 0.5)), url("/Burgos/images/burgos.jpg");
+    background: linear-gradient(rgba(255, 255, 255, 0.273), rgba(255, 255, 255, 0.5)), url("/MTProject/Burgos/images/burgos.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -18,7 +18,7 @@ body {
 }
 
 body.festival {
-    background: linear-gradient(rgba(255, 255, 255, 0.273), rgba(255, 255, 255, 0.5)), url("/Burgos/images/saniata4.jpg");
+    background: linear-gradient(rgba(255, 255, 255, 0.273), rgba(255, 255, 255, 0.5)), url("/MTProject/Burgos/images/saniata4.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -26,7 +26,7 @@ body.festival {
 }
 
 body.history {
-    background: linear-gradient(rgba(255, 255, 255, 0.273), rgba(255, 255, 255, 0.5)), url("/Burgos/images/historybg.jpg");
+    background: linear-gradient(rgba(255, 255, 255, 0.273), rgba(255, 255, 255, 0.5)), url("/MTProject/Burgos/images/historybg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
